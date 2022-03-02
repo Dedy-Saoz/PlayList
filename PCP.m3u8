@@ -70,7 +70,7 @@ http://group2-swiftservesd-1.dens.tv/s/s08/01.m3u8
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GLOBAL TV =>1" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="Lokal",GLOBAL TV =>1
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="BLOBAL TV =>2" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="Lokal",GLOBAL TV =>2
-https://cubmu.superzap.xyz:8279/gtv/playlist.m3u8
+https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -89,16 +89,16 @@ https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal",INDOSIAR =>1
-http://rr2.dens.tv/s/s04/index.m3u8
+http://108.136.37.52/m3u8/vid_Indosiar.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal",INDOSIAR =>2
 http://www.goldentv.tech:25461/live/Donni/Donni/25686.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal",INDOSIAR =>3
 https://winhometv3.xyz/kamfret/vidio_indosiar.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal",SCTV =>1
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+http://www.goldentv.tech:25461/live/Donni/Donni/25688.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal",SCTV =>2
-http://tvn.x10.bz/vidio/master-24.m3u8
+http://108.136.37.52/m3u8/vid_SCTV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -375,41 +375,48 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="Sports",BeinSport 2
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="Sports",BeinSport 2 Backup 1
+#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="Sports",BeinSport 2 Backup
 https://master.server-cdn-streaming.com/api/live-player/29/live.m3u8
-#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="Sports",BeinSport 2 Backup 3
-http://dikoiptv.zapto.org:2082/diko31/dikoiptv/61
 
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="Sports",BeinSport 3
 http://www.goldentv.tech:25461/live/Donni/Donni/22969.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="Sports",BeinSport Premium 1
-http://45.135.194.181:8080/802431545469102/l4WCmZnwCp/524?token=GkZbBRddRl9DBFdQWg0DUlRQVAAEBlUFVwQLXFZTXAAHXQtUB1BdVAUSHREQTEQDBAk7DAEQDQFXUhVHF0MAFj4NV0ZeF1BQVQcFClQJFEpHEA0IABANBVNSDFJbBVxcUUgRFA1RRl9DAQUAVg4USkcBHBEAQFlVCTldABRZBgFDXl0RCFlIRw5eblcGVVcIAUZeR1UQGxYMFUlHWF4QCA1IEQYNQRYEFVUTCUEOBlBHSEYGCkdZQBcfG19AeSFGTUZWHBBQChYIX18RWRpCFUdIRgwWbUVRFhJLAANdABZDXhFURhlGCABIblAMVlgDBhANCgtBFQ5HVxtJQF0KCggQXBY7RQ0BQwoTBVALD1BHGQ==
+http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="Sports",BeinSport Premium 2
-http://45.153.33.239:8080/802431545469102/l4WCmZnwCp/526?token=GkZbBRddRl9DCVMLAQ8OAlNdAFFQUAVRU1YIXAACXVVWUQFTVwJRUAMSHREQTEQDBAk7DAEQDQFXUBVHF0MAFj4NV0ZeF1BQVQcFClQJFEpHEA0IABANBVNSDFJbBlRRVUgRFA1RRl9DBQcCWwkUSkcBHBEAQFlVCTldABRZBgFDXl0RCFlIRw5eblcGVVcIAUZeR1UQGxYMFUlHWF4QCA1IEQYNQRYEFVUTCUEAD1dHSEYGCkdZQBcfG19AeSFGTUZWHBBQChYIX18RWRpCFUdIRgwWbUVRFhJLAANdABZDXhFURhlGCABIblAMVlgDBhANCgtBFQ5HVxtJQF0KCggQXBY7RQ0BQwoTB1IMA19HGQ==
+http://vt.vttpi.com:8000/live/P-957977/P-740465/413.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="Sports",BeinSport Premium 3
-http://45.135.194.181:8080/802431545469102/l4WCmZnwCp/528?token=GkZbBRddRl9DU1UBV1kBAgEGBgdTV1IAAF8JVgNUUwBQBgFSXABQAVcSHREQTEQDBAk7DAEQDQFXXhVHF0MAFj4NV0ZeF1BQVQcFClQJFEpHEA0IABANBVNSDFJbBldcWUgRFA1RRl9DAQUCVgEUSkcBHBEAQFlVCTldABRZBgFDXl0RCFlIRw5eblcGVVcIAUZeR1UQGxYMFUlHWF4QCA1IEQYNQRYEFVUTCUEPDlBHSEYGCkdZQBcfG19AeSFGTUZWHBBQChYIX18RWRpCFUdIRgwWbUVRFhJLAANdABZDXhFURhlGCABIblAMVlgDBhANCgtBFQ5HVxtJQF0KCggQXBY7RQ0BQwoTAlcIAEQY
+http://vt.vttpi.com:8000/live/P-957977/P-740465/414.m3u8
 
-#EXTINF:-1,group-title="Sports", True SPOTV 1
+#EXTINF:-1 tvg-id="ext" group-title="Sports",Fox Sport 1
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+#EXTINF:-1 tvg-id="ext" group-title="Sports",Fox Sport 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1 tvg-id="ext" group-title="Sports",Fox Sport 3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+#EXTINF:-1 tvg-id="ext" group-title="Sports",True SPOTV 1
 https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1,group-title="Sports", True SPOTV 2
+#EXTINF:-1 tvg-id="ext" group-title="Sports",True SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
-#EXTINF:-1,group-title="Sports", Usee Sport 1
+#EXTINF:-1 tvg-id="ext" group-title="Sports",Usee Sport 1
 http://15.235.142.228:8080/live/hometvfree/selaludihati/70.m3u8
-#EXTINF:-1,group-title="Sports", Usee Sport 1 => Backup
+#EXTINF:-1 tvg-id="ext" group-title="Sports",Usee Sport 1 => Backup
 https://goldenlivektv.com/zzz/useesport.m3u8
 
-#EXTINF:-1,group-title="Sports", Usee Sport 2
+#EXTINF:-1 tvg-id="ext" group-title="Sports",Usee Sport 2
 http://15.235.142.228:8080/live/hometvfree/selaludihati/71.m3u8
-#EXTINF:-1,group-title="Sports", Usee Sport 2 => Backup
+#EXTINF:-1 tvg-id="ext" group-title="Sports",Usee Sport 2 => Backup
 https://goldenlivektv.com/zzz/useesports2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -417,13 +424,13 @@ https://goldenlivektv.com/zzz/useesports2.m3u8
 #EXTINF:0 tvg-id="SoccerChannel.id" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1,group-title="Sports", UFC 1
+#EXTINF:-1 tvg-id="ext" group-title="Sports",UFC 1
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1,group-title="Sports", UFC 2
+#EXTINF:-1 tvg-id="ext" group-title="Sports",UFC 2
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1,group-title="Sports", SKY NEWS EXTRA 1
+#EXTINF:-1 tvg-id="ext" group-title="Sports",SKY NEWS EXTRA 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 1
@@ -444,23 +451,23 @@ http://nontonbola.my.id/nonton/3iyu4892sjknglfsui5ry32o.m3u8
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro Super Sports 1
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/315541
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro Super Sports 1 => Backup
-http://goldentv.tech:25461/rachman/rachman/25010
+http://goldentv.tech:25461/Donni/Donni/25010
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",Astro Super Sports 2
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/315542
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",Astro Super Sports 2 => Backup
-http://goldentv.tech:25461/rachman/rachman/25011
+http://goldentv.tech:25461/Donni/Donni/25011
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro Super Sports 3
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/315543
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro Super Sports 3 => Backup
-http://goldentv.tech:25461/rachman/rachman/25012
+http://goldentv.tech:25461/Donni/Donni/25012
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 4
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/315544
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 4 => Backup
-http://goldentv.tech:25461/rachman/rachman/25015
+http://goldentv.tech:25461/Donni/Donni/25015
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 5
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9029.m3u8
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 5 => Backup
-http://goldentv.tech:25461/rachman/rachman/25016
+http://goldentv.tech:25461/Donni/Donni/25016
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",SuKan Rtm
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
