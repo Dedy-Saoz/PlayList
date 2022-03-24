@@ -440,7 +440,7 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" group-title="Sports",True SPOTV 1  => Backup
-http://www.goldentv.tech:25461/Donni/Donni/25017.m3u8
+http://www.goldentv.tech:25461/live/Donni/Donni/25017.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -450,10 +450,10 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" group-title="Sports",True SPOTV 2  => Backup
-http://www.goldentv.tech:25461/Donni/Donni/26155.m3u8
+http://www.goldentv.tech:25461/live/Donni/Donni/26155.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="Sports",Usee Sport 1
-http://www.goldentv.tech:25461/Donni/Donni/22973.m3u8
+http://www.goldentv.tech:25461/live/Donni/Donni/22973.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -461,7 +461,7 @@ http://www.goldentv.tech:25461/Donni/Donni/22973.m3u8
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=useesport
 
 #EXTINF:-1 tvg-id="ext" group-title="Sports",Usee Sport 2
-http://www.goldentv.tech:25461/Donni/Donni/22974.m3u8
+http://www.goldentv.tech:25461/live/Donni/Donni/22974.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
