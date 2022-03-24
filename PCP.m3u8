@@ -452,11 +452,6 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-id="ext" group-title="Sports",True SPOTV 2  => Backup
 http://goldentv.tech:25461/Donni/Donni/26155.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ext" group-title="Sports",MBOH
-https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="ext" group-title="Sports",Usee Sport 1
 http://goldentv.tech:25461/Donni/Donni/22973.m3u8
 
