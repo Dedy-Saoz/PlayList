@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://bit.ly/3itZsSm"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+#EXTM3U x-url-tvg="https://bit.ly/3itZsSm"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7 =>1" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Lokal",TRANS 7 HD  =>1
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -54,6 +56,9 @@ https://liveanevia.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV =>1" tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="Lokal",KOMPAS TV  =>1
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV =>2" tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="Lokal",KOMPAS TV  =>2
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/06.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV =>3" tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="Lokal",KOMPAS TV  =>3
