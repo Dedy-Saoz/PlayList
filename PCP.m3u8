@@ -535,6 +535,9 @@ http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59217.m3u8
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 5
 http://www.goldentv.tech:25461/Donni/Donni/25016
 
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 5 Backup
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/241138.ts
+
 #EXTINF:0 tvg-id="ext" group-title="Sports",SuKan Rtm
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
