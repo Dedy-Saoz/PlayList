@@ -536,10 +536,7 @@ http://www.goldentv.tech:25461/Donni/Donni/25012
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro Super Sports 3 Backup
-http://62.141.40.226:25461/live/579161/579161/6711.m3u8?token=TRVcBxJZQ1wUVF5VBwBUClZWBVYBA1NTBFQOAwEAVFpXBFACVlMEAAdGShMXRhNcVg9oDVEQClUFVwhOFE0QBkRoXQJDC0NXA1xQE0gQFVBaBxVeBR4SE1sCG1gUCVdQAg4WSkNUGRJTFghQCG0FXEELVAEXCF4WXgoVQFlWPAdTWlUIBRNbRAZGShMNQREbDQxCCFkeEgFbEksDQl1BWRQDA1ZWE01EVQsTXxBAGBsNQH4gFx4SBkoSXAxFUQwNFA0WC1JEWUQaRg9CO0AESkMQUgVYV0JBCEQJQBoaDgJOaFcJD18EBUINCV8XEFsbBkAbRlhdXgpGCUs9RlEHQQwVBldWBlRESw==
-
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 3 ASU
-https://iptv.nullpress.xyz/live/upn230505/upn230505/53224.ts
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52861
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 4
 http://www.goldentv.tech:25461/Donni/Donni/25015
