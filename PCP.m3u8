@@ -536,7 +536,7 @@ http://www.goldentv.tech:25461/Donni/Donni/25012
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro Super Sports 3 Backup
-http://62.141.40.226:25461/live/579161/579161/6711.m3u8?token=TRVcBxJZQ1wUAFYHXVZYXwFXAwdUUAhXC1BaVwAPAgcPUQFQVQVUVg9GShMXRhNcVg9oDVEQClUFVwhOFE0QBkRoXQJDC0NXA1xQE0gQFVBaBxVeBR4SE1sCG1gUCVdXDgEWSkNUGRJTFghQCG0FXEELVAEXCF4WXgoVQFlWPAdTWlUIBRNbRAZGShMNQREbDQxCCFkeEgFbEksDQl1BWRQDAlZUE01EVQsTXxBAGBsNQH4gFx4SBkoSXAxFUQwNFA0WC1JEWUQaRg9CO0AESkMQUgVYV0JBCEQJQBoaDgJOaFcJD18EBUINCV8XEFsbBkAbRlhdXgpGCUs9RlEHQQwVBldWBlRESw==
+http://62.141.40.226:25461/live/579161/579161/6711.m3u8?token=TRVcBxJZQ1wUVF5VBwBUClZWBVYBA1NTBFQOAwEAVFpXBFACVlMEAAdGShMXRhNcVg9oDVEQClUFVwhOFE0QBkRoXQJDC0NXA1xQE0gQFVBaBxVeBR4SE1sCG1gUCVdQAg4WSkNUGRJTFghQCG0FXEELVAEXCF4WXgoVQFlWPAdTWlUIBRNbRAZGShMNQREbDQxCCFkeEgFbEksDQl1BWRQDA1ZWE01EVQsTXxBAGBsNQH4gFx4SBkoSXAxFUQwNFA0WC1JEWUQaRg9CO0AESkMQUgVYV0JBCEQJQBoaDgJOaFcJD18EBUINCV8XEFsbBkAbRlhdXgpGCUs9RlEHQQwVBldWBlRESw==
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 4
 http://www.goldentv.tech:25461/Donni/Donni/25015
@@ -545,6 +545,9 @@ http://www.goldentv.tech:25461/Donni/Donni/25015
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 4 Backup
 http://89.163.206.210:8080/live/579161/579161/9026.m3u8?token=TRVcBxJZQ1wUUQUAXQUHWgcEVFNUBQNbC1ELVgAKVlEHUwYEWANVVANGShMXRhNcVg9oDVEQCloCVA9OFE0QBkRoXQJDC0NXA1xQE0gQFVBaBxVeBR4SE1sCG1gUClFUAQEWSkNUGRJTFghQCG0FXEELVAEXCF4WXgoVQFlWPAdTWlUIBRNbRAZGShMNQREbDQxCCFkeEgFbEksDQl1BWRQDA1JTE01EVQsTXxBAGBsNQH4gFx4SBkoSXAxFUQwNFA0WC1JEWUQaRg9CO0AESkMQUgVYV0JBCEQJQBoaDgJOaFcJD18EBUINCV8XEFsbBkAbRlhdXgpGCUs9RlEHQQwVDVJQB0Mb
+
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 4 ASU
+http://89.163.206.210:8080/live/579161/579161/9026.m3u8
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 5
 http://www.goldentv.tech:25461/Donni/Donni/25016
