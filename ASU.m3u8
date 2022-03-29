@@ -23,3 +23,16 @@ http://iptv.tvmalaysia.cc/live/579161/579161/9026.m3u8
 
 #EXTINF:0 user-agent="stagefright/1.2 (Linux;Android 9)" , Stream
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52861
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal",INDOSIAR HD  =>2
+http://tvn.x10.bz/xchannel/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 1
+http://tvn.x10.bz/xchannel/master-6.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 2
+http://tvn.x10.bz/xchannel/master-7.m3u8
