@@ -399,7 +399,6 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:0 tvg-id="SoccerChannel.id" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTM3U
 #EXT-X-VERSION:3
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Sports",Indosiar Sport
 http://begaltvku.site/vidprem/master.m3u8
