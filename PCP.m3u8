@@ -26,7 +26,7 @@ https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE =>1" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="Lokal",TV ONE HD   =>1
-http://www.goldentv.tech:25461/live/Donni/Donni/25719.m3u8
+http://begaltvku.site/vidprem/master-13.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -38,7 +38,7 @@ http://group2-swiftservesd-1.dens.tv/s/s105/01.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METRO TV =>1" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="Lokal",METRO TV HD  =>1
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METRO TV =>2" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="Lokal",METRO TV HD  =>2
-http://www.goldentv.tech:25461/live/Donni/Donni/25722.m3u8
+http://begaltvku.site/vidprem/master-23.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -85,7 +85,7 @@ https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI =>2" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal",RCTI HD  =>2
-http://www.goldentv.tech:25461/live/Donni/Donni/25665.m3u8
+http://link.zozotv.xyz:8080/live/dayah/dayah/47.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -95,12 +95,12 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV =>2" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Lokal",MNC TV HD  =>2
-http://www.goldentv.tech:25461/live/Donni/Donni/25666.m3u8
+http://link.zozotv.xyz:8080/live/dayah/dayah/49.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal",INDOSIAR HD  =>1
-http://www.goldentv.tech:25461/live/Donni/Donni/25686.m3u8
+http://begaltvku.site/vidprem/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -108,7 +108,7 @@ http://www.goldentv.tech:25461/live/Donni/Donni/25686.m3u8
 http://group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal",SCTV HD  =>1
-http://www.goldentv.tech:25461/live/Donni/Donni/25688.m3u8
+http://begaltvku.site/vidprem/master-24.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal",SCTV HD  =>2
 http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
 
@@ -121,6 +121,9 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="RTV.MACAN" tvg-name="RTV =>2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_vjWrCLS7f4KsdCrDKXDcn7gDAZHyaoxj9A&s" group-title="Lokal",RTV  =>2
 https://live-birutv.com/play/rtv.m3u8
+
+#EXTINF:-1 group-title="Lokal", Mentari TV
+http://begaltvku.site/vidprem/master-22.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
