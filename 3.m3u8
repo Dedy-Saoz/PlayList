@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1,BeritaSatu (720p)
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1,BeritaSatu World (540p) [Not 24/7]
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1,CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1,CNN Indonesia (720p)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1,GTV (720p)
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+
+#EXTINF:-1,Hits (720p) [Not 24/7]
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#EXTINF:-1,Hits Movies (720p) [Not 24/7]
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:-1,I AM CHANNEL (576p) [Not 24/7]
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+
+#EXTINF:-1,Indonesia Channel (720p) [Not 24/7]
+http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
+
+#EXTINF:-1,iNews (720p)
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+
+#EXTINF:-1,Metal TV (720p) [Not 24/7]
+https://v2.catcast.tv/content/33816/index.m3u8
+
+#EXTINF:-1,Metro TV (160p) [Not 24/7]
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,MNCTV (720p)
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+
+#EXTINF:-1,One TV (720p) [Not 24/7]
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:-1,Radio 51 TV (480p) [Geo-blocked]
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1,RCTI (720p)
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+
+#EXTINF:-1,Reformed 21 (540p)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+
+#EXTINF:-1,RRI Net (720p) [Not 24/7]
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1,Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1,Trans7 (720p) [Not 24/7]
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1,TVKU (720p) [Not 24/7]
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1,TVRI Aceh (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
+
+#EXTINF:-1,TVRI Bali (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+
+#EXTINF:-1,TVRI Bangka Belitung (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
+
+#EXTINF:-1,TVRI Bengkulu (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+
+#EXTINF:-1,TVRI DKI Jakarta (720p) [Not 24/7]
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+
+#EXTINF:-1,TVRI Gorontalo (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+
+#EXTINF:-1,TVRI Jambi (720p) [Not 24/7]
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+
+#EXTINF:-1,TVRI Jawa Barat (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+
+#EXTINF:-1,TVRI Jawa Tengah (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+#EXTINF:-1,TVRI Jawa Timur (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+
+#EXTINF:-1,TVRI Kalimantan Barat (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+
+#EXTINF:-1,TVRI Kalimantan Selatan (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+
+#EXTINF:-1,TVRI Kalimantan Tengah (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+
+#EXTINF:-1,TVRI Kalimantan Timur (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+
+#EXTINF:-1,TVRI Lampung (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+
+#EXTINF:-1,TVRI Maluku (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+
+#EXTINF:-1,TVRI Nasional (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:-1,TVRI Nusa Tenggara Barat (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+
+#EXTINF:-1,TVRI Nusa Tenggara Timur (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+
+#EXTINF:-1,TVRI Papua (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+
+#EXTINF:-1,TVRI Riau (720p) [Not 24/7]
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+
+#EXTINF:-1,TVRI Sport HD (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1,TVRI Sulawesi Barat (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+
+#EXTINF:-1,TVRI Sulawesi Selatan (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+
+#EXTINF:-1,TVRI Sulawesi Tengah (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+
+#EXTINF:-1,TVRI Sulawesi Tenggara (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+
+#EXTINF:-1,TVRI Sulawesi Utara (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8
+
+#EXTINF:-1,TVRI Sumatera Barat (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+
+#EXTINF:-1,TVRI Sumatera Selatan (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+
+#EXTINF:-1,TVRI Sumatera Utara (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
+
+#EXTINF:-1,TVRI World (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:-1,TVRI Yogyakarta (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
