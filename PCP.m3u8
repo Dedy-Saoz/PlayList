@@ -418,7 +418,7 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="Sports",BeinSport 1 TrueVision
 https://master.server-cdn-streaming.com/api/live-player/28/live.m3u8
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="Sports",BeinSport 1
-http://www.goldentv.tech:25461/live/Donni/Donni/33534.m3u8
+http://15.235.142.241:8080/live/tvnid/tvnidmaster/8059.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -433,7 +433,10 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 https://master.server-cdn-streaming.com/api/live-player/29/live.m3u8
 
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="Sports",BeinSport 3
-http://www.goldentv.tech:25461/live/Donni/Donni/22969.m3u8
+http://15.235.142.241:8080/live/tvnid/tvnidmaster/8060.m3u8
+
+#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="Sports",BeinSport 3 Backup
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3246
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="Sports",BeinSport Premium 1
@@ -509,7 +512,7 @@ http://begaltvku.site/vidprem/master-6.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 1 => Backup
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
+https://lengo-sentir.xyz/Live/Champion_1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -519,7 +522,7 @@ http://begaltvku.site/vidprem/master-7.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 2 => Backup
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
+https://lengo-sentir.xyz/Live/Champion2_1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -529,7 +532,12 @@ http://begaltvku.site/vidprem/master-8.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 3 => Backup
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
+https://lengo-sentir.xyz/Live/Champion3_1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 4
+https://lengo-sentir.xyz/Live/Champion4_1.m3u8
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro Super Sports 1
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52859
@@ -552,7 +560,7 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52862
 http://iptv.tvmalaysia.cc/live/579161/579161/9026.m3u8
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 5
-http://www.goldentv.tech:25461/Donni/Donni/25016
+https://fantom-tv.xyz/live/5847/5847/26317.ts
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sports 5 Backup
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/241138.ts
 
