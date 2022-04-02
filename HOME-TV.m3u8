@@ -1,11 +1,11 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ext",Trans 7 1
+#EXTINF:-1 tvg-id="ext",Trans 7 HD
 http://15.235.142.241:8080/hometv/premium/356
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ext",Trans 7 2
+#EXTINF:-1 tvg-id="ext",Trans 7 HD Backup
 http://49.128.184.38:25461/siaran/testing/1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -15,12 +15,12 @@ https://tvlivehometv.xyz/antibadai/vidio_trans7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ext",Trans TV 1
+#EXTINF:-1 tvg-id="ext",Trans TV HD
 http://15.235.142.241:8080/hometv/premium/357
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ext",Trans TV 2
+#EXTINF:-1 tvg-id="ext",Trans TV HD Backup
 http://49.128.184.38:25461/siaran/testing/2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -30,12 +30,12 @@ https://tvlivehometv.xyz/antibadai/vidio_transtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ext",Indosiar 1
+#EXTINF:-1 tvg-id="ext",Indosiar 1 HD
 http://15.235.142.241:8080/hometv/premium/358
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ext",Indosiar 2
+#EXTINF:-1 tvg-id="ext",Indosiar HD Backup
 http://49.128.184.38:25461/siaran/testing/3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -45,12 +45,12 @@ https://tvlivehometv.xyz/antibadai/vidio_indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ext",SCTV 1
+#EXTINF:-1 tvg-id="ext",SCTV SD
 http://15.235.142.241:8080/hometv/premium/359
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ext",SCTV 2
+#EXTINF:-1 tvg-id="ext",SCTV SD Backup
 http://49.128.184.38:25461/siaran/testing/4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
