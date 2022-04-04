@@ -388,12 +388,12 @@ http://51.79.223.166:8080/hometv/premium/17
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="CitraBioskop" tvg-logo="" group-title="Movies",Citra Bioskop Indonesia
-https://winhometv.xyz/antibadai/vidio_citrabioskop.m3u8
+http://winhometv.xyz/antibadai/vidio_citrabioskop.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="CitraDrama" tvg-logo="" group-title="Movies",Citra Drama Indonesia
-https://winhometv.xyz/antibadai/vidio_citradrama.m3u8
+http://winhometv.xyz/antibadai/vidio_citradrama.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
