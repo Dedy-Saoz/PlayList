@@ -58,7 +58,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="INews.id" tvg-name="iNews TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="Lokal",iNews TV HD Backup
-https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
+https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/inewstv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -85,7 +85,8 @@ https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI =>2" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal",RCTI HD Backup
-http://link.zozotv.xyz:8080/live/dayah/dayah/47.m3u8
+https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+#http://link.zozotv.xyz:8080/live/dayah/dayah/47.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -95,7 +96,8 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV =>2" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Lokal",MNC TV HD Backup
-http://link.zozotv.xyz:8080/live/dayah/dayah/49.m3u8
+https://d31ydakkt1yp6t.cloudfront.net/out/v1/ccf47d42d38b4ad09bd278e7468db779/index.m3u8
+#http://link.zozotv.xyz:8080/live/dayah/dayah/49.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -382,7 +384,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="CinemaIndonesia" tvg-logo="" group-title="Movies",Cinema Indonesia
-http://51.79.223.166:8080/hometv/premium/17
+http://15.235.142.241:8080/live/hometvjoss/direct/10134.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -397,7 +399,7 @@ http://winhometv.xyz/antibadai/vidio_citradrama.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="KoreaDrama" tvg-logo="" group-title="Movies",Korea Drama
-http://51.79.223.166:8080/hometv/premium/16
+http://15.235.142.241:8080/live/hometvjoss/direct/10113.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -432,7 +434,7 @@ http://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=useesport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/zxMy9TG/useesport1-home-tv.png" group-title="Sports",Usee Sport 1 HD Backup
-http://51.79.223.166:8080/hometv/premium/32
+http://15.235.142.241:8080/hometvjoss/direct/8055
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -442,7 +444,7 @@ http://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=useesports2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/jvyrSb5/useesport2-home-tv.png" group-title="Sports",Usee Sport 2 HD Backup
-http://51.79.223.166:8080/hometv/premium/33
+http://15.235.142.241:8080/hometvjoss/direct/8056
 
 #EXT-X-VERSION:3
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Sports",Indosiar Sport HD
@@ -588,7 +590,7 @@ http://tvn.x10.bz/TvN_ID/master-8.m3u8
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro Sports 1 FHD
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240968.m3u8
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro Sports 1 FHD Backup
-https://fantom-tv.xyz/live/5847/5847/26312.ts
+http://iptv.tvmalaysia.cc/live/579161/579161/9024.m3u8
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",Astro Sports 2 HD
 http://203.154.243.89:21202/nakhon
@@ -599,6 +601,7 @@ http://iptv.tvmalaysia.cc/live/579161/579161/9025.m3u8
 http://203.154.243.89:21203/nakhon
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro Sports 3 FHD Backup
 http://iptv.tvmalaysia.cc/live/579161/579161/6711.m3u8
+#http://103.28.148.162:7728/apkhometv/hometvpremium/673
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Sports 4 FHD
 http://203.154.243.89:21204/nakhon
