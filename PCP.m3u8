@@ -1,7 +1,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7 =>1" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Lokal",TRANS 7 HD
-https://streamhuawei.detik.com/gstream/smil:gstream.smil/chunklist_w1021726538_b54400_sleng.m3u8
+https://streamhuawei.detik.com/gstream/smil:gstream.smil/chunklist_w1698396017_b54400_sleng.m3u8
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2091843237_b744100_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
