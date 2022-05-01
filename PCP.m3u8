@@ -384,30 +384,6 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="CitraBioskop" tvg-logo="" group-title="Movies",Citra Bioskop Indonesia
-http://winhometv.xyz/antibadai/vidio_citrabioskop.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="CitraDrama" tvg-logo="" group-title="Movies",Citra Drama Indonesia
-http://winhometv.xyz/antibadai/vidio_citradrama.m3u8
-
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="CinemaIndonesia" tvg-logo="" group-title="Movies",SCM Movie
-http://15.235.142.241:25461/hometv/premium/68?token=Q0MOV0BfEwwQAlYDVQ0OAlcHXQ9TUQBUCAgABAMDDgwNUlFSBQcDBgIWHhcWQUUDAgtmXgBHCwAJFRJBQFJEZ1EFRAwRBRMaEEBbWAAXDVdVUwgDVlUIBQkVEkRaUxQCGlZfBQUVHRRXTEZQF1tWCjwCXEENBlQUC1dFWF8bFFdWPgJTXlZfUhAOEAVHGRUPEBYbDQoQXVodG1JdR0VXTF1DXBQBAAcAEBgQVgpAWRIRHxsNRix1FB0bVUxHUlhLUQ4IFAkVRUUQGBBcFmpFAxASS1IFCFREEwMSBBEbFFVZGTlVXFlfU1FAW1oLRhVcQVUJB0ZJE1teV1lAXEVpSFEFRAwRAQYPBBZP
-
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="CinemaIndonesia" tvg-logo="" group-title="Movies",Star Movie
-http://15.235.142.241:25461/live/hometv/premium/60.ts?token=Q0MOV0BfEwwQAQACAQFRUwVXDQQHAQUBAQxTDFZUVw8JB15QAFVUVAsWHhcWQUUDAgtmXgBHCwABFRJBQFJEZ1EFRAwRBRMaEEBbWAAXDVdVUwgDVlQBBwYVEkRaUxQCGlJWDwEVHRRXTEZQF1tWCjwCXEENBlQUC1dFWF8bFFdWPgJTXlZfUhAOEAVHGRUPEBYbDQoQXVodG1JdR0VXTF1DXBQBDggHEBgQVgpAWRIRHxsNRix1FB0bVUxHUlhLUQ4IFAkVRUUQGBBcFmpFAxASS1IFCFREEwMSBBEbFFVZGTlVXFlfU1FAW1oLRhVcQVUJB0ZJE1teV1lAXEVpSFEFRAwRAQEOARZP
-
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="CinemaIndonesia" tvg-logo="" group-title="Movies",Flix Movie
-http://15.235.142.241:25461/hometv/premium/61?token=Q0MOV0BfEwwQUAZTAFNVV1NWDgFSUwUEBAoBVgIEBAoPU1EABQEHA1EWHhcWQUUDAgtmXgBHCwAAFRJBQFJEZ1EFRAwRBRMaEEBbWAAXDVdVUwgDVlUEAQYVEkRaUxQCGlZUBQQVHRRXTEZQF1tWCjwCXEENBlQUC1dFWF8bFFdWPgJTXlZfUhAOEAVHGRUPEBYbDQoQXVodG1JdR0VXTF1DXBQAAwMDEBgQVgpAWRIRHxsNRix1FB0bVUxHUlhLUQ4IFAkVRUUQGBBcFmpFAxASS1IFCFREEwMSBBEbFFVZGTlVXFlfU1FAW1oLRhVcQVUJB0ZJE1teV1lAXEVpSFEFRAwRAQYBAhZP
-
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="CinemaIndonesia" tvg-logo="" group-title="Movies",Prive Movie
-http://15.235.142.241:25461/hometv/premium/62?token=Q0MOV0BfEwwQUAIBVANTAloCWgcFVwEAAgAHBFFWBVoMB1RTBwVVUwEWHhcWQUUDAgtmXgBHCwADFRJBQFJEZ1EFRAwRBRMaEEBbWAAXDVdVUwgDVlUHBQYVEkRaUxQCGlBSAAQDExoQUUpBAEdZBw85XVISDFJTEwNeQV9bGhpXDzlSVlpQWFYWCBdVFxtEChVJFV4LRFpdFRJWWkNEWUwERAwRBAUBBRYeFwZaQggXFEAVXkd4chMVElFLQ1NWSwgJWBENE0JBFh4XDEZoFAYVTUUBBFxTQxsKFgMVGhpVAB5pUFhfWFdXRlwKW0REWUQKB1RHHRRcVl5dR1hEZ0gIAhQJFQcBBQIQSA==
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="KoreaDrama" tvg-logo="" group-title="Movies",Korea Drama
-http://103.157.26.128:8080/hometv/premium/96
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
