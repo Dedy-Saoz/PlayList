@@ -434,7 +434,7 @@ https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport2
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Sports",Indosiar Sport HD
 http://akudandia.xyz/locs/akudandia-205.m3u8
 
-#EXTINF:-1 group-title="Sports", O Channel TV HD
+#EXTINF:-1 group-title="Sports",O Channel TV HD
 https://bagoltvku.my.id/ubaconang/master-18.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
