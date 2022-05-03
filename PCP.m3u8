@@ -580,10 +580,10 @@ http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63688.m3u8
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63682.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/qJrJJDX/Football.png" group-title="Sports",FootBall Seri A
-http://15.235.142.241:25461/hometv/premium/19?token=Q0MOV0BfEwwQBFFUVVZWUVFUCFRTUQEAAAgEDVEABVoLWQJQCgECB1AWHhcWQUUDAgtmXgBHCwcIFRJBQFJEZ1EFRAwRBRMaEEBbWAAXDVdVUwgDVlcFAQMVEkRaUxQCGlJTAQIVHRRXTEZQF1tWCjwCXEENBlQUC1dFWF8bFFdWPgJTXlZfUhAOEAVHGRUPEBYbDQoQXVodG1JdR0VXTF1DXBQABgADEBgQVgpAWRIRHxsNRix1FB0bVUxHUlhLUQ4IFAkVRUUQGBBcFmpFAxASS1IFCFREEwMSBBEbFFVZGTlVXFlfU1FAW1oLRhVcQVUJB0ZJE1teV1lAXEVpSFEFRAwRAQQOBRZP
+http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63692.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sports",Motor Sport
-http://15.235.142.241:25461/hometv/premium/22?token=Q0MOV0BfEwwQVgACAwdVVFUADQIAAQNTUF9VBgcFU1leBV8GUQFXD1YWHhcWQUUDAgtmXgBHCwQDFRJBQFJEZ1EFRAwRBRMaEEBbWAAXDVdVUwgDVlcEBwQVEkRaUxQCGlBXAwIAExoQUUpBAEdZBw85XVISDFJTEwNeQV9bGhpXDzlSVlpQWFYWCBdVFxtEChVJFV4LRFpdFRJWWkNEWUwERAwRBQYBAhYeFwZaQggXFEAVXkd4chMVElFLQ1NWSwgJWBENE0JBFh4XDEZoFAYVTUUBBFxTQxsKFgMVGhpVAB5pUFhfWFdXRlwKW0REWUQKB1RHHRRcVl5dR1hEZ0gIAhQJFQcAAwUQSA==
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Premier League
+http://hd-max.org:8080/live/ollischnumbolli/mtaKKRWGwS/1312.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",SuKan TV FHD
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
