@@ -434,7 +434,7 @@ https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport2
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Sports",Indosiar Sport HD
 http://akudandia.xyz/locs/akudandia-205.m3u8
 
-#EXTINF:-1 group-title="Sports",O Channel TV HD
+#EXTINF:-1 group-title="Sports", O Channel TV HD
 https://bagoltvku.my.id/ubaconang/master-18.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -574,10 +574,10 @@ http://axcestv.vip:8080/live/freeview/axcestv/987.ts
 http://27.124.85.122:443/warkoptv/2zWfRhCrll/5
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/564JwyV/Premier-league.png" group-title="Sports",Premier League
-http://15.235.142.241:25461/hometv/premium/18?token=Q0MOV0BfEwwQAQVUVVEPVltSW1RVBgUOU18GAAYPUAFcBVQEBAUGBQAWHhcWQUUDAgtmXgBHCwcJFRJBQFJEZ1EFRAwRBRMaEEBbWAAXDVdVUwgDVlcCDgIVEkRaUxQCGlBWAwoDExoQUUpBAEdZBw85XVISDFJTEwNeQV9bGhpXDzlSVlpQWFYWCBdVFxtEChVJFV4LRFpdFRJWWkNEWUwERAwRBQYHBxYeFwZaQggXFEAVXkd4chMVElFLQ1NWSwgJWBENE0JBFh4XDEZoFAYVTUUBBFxTQxsKFgMVGhpVAB5pUFhfWFdXRlwKW0REWUQKB1RHHRRcVl5dR1hEZ0gIAhQJFQcDBQ0QSA==
+http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63688.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/gMqK6VX/Laliga.png" group-title="Sports",LaLiga
-http://15.235.142.241:25461/hometv/premium/25?token=Q0MOV0BfEwwQVVMDAAYGX1pfWAdVBlUECVpWVwIAU1oKBVdXBgUDUAYWHhcWQUUDAgtmXgBHCwQEFRJBQFJEZ1EFRAwRBRMaEEBbWAAXDVdVUwgDVlcFAgAVEkRaUxQCGlBXAwYDExoQUUpBAEdZBw85XVISDFJTEwNeQV9bGhpXDzlSVlpQWFYWCBdVFxtEChVJFV4LRFpdFRJWWkNEWUwERAwRBQgPABYeFwZaQggXFEAVXkd4chMVElFLQ1NWSwgJWBENE0JBFh4XDEZoFAYVTUUBBFxTQxsKFgMVGhpVAB5pUFhfWFdXRlwKW0REWUQKB1RHHRRcVl5dR1hEZ0gIAhQJFQcABgIQSA==
+http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63682.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/qJrJJDX/Football.png" group-title="Sports",FootBall Seri A
 http://15.235.142.241:25461/hometv/premium/19?token=Q0MOV0BfEwwQBFFUVVZWUVFUCFRTUQEAAAgEDVEABVoLWQJQCgECB1AWHhcWQUUDAgtmXgBHCwcIFRJBQFJEZ1EFRAwRBRMaEEBbWAAXDVdVUwgDVlcFAQMVEkRaUxQCGlJTAQIVHRRXTEZQF1tWCjwCXEENBlQUC1dFWF8bFFdWPgJTXlZfUhAOEAVHGRUPEBYbDQoQXVodG1JdR0VXTF1DXBQABgADEBgQVgpAWRIRHxsNRix1FB0bVUxHUlhLUQ4IFAkVRUUQGBBcFmpFAxASS1IFCFREEwMSBBEbFFVZGTlVXFlfU1FAW1oLRhVcQVUJB0ZJE1teV1lAXEVpSFEFRAwRAQQOBRZP
