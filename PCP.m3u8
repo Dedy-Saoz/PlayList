@@ -132,8 +132,11 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 "http://live-birutv.com/play/rtv.m3u8
 
-#EXTINF:-1 group-title="Lokal", O Channel TV HD
+#EXTINF:-1 tvg-id="O Channel" tvg-name="O Channel" tvg-logo="https://imgs1.e-droid2.net/srv/imgs/seccs/19886572_ico.png" group-title="Lokal",O Channel TV HD
 http://akudandia.xyz/locs/akudandia-206.m3u8
+
+#EXTINF:-1 tvg-id="O Channel" tvg-name="O Channel" tvg-logo="https://imgs1.e-droid2.net/srv/imgs/seccs/19886572_ico.png" group-title="Lokal",O Channel TV HD Backup
+https://www.seulangatv-online.ml/vidio/prem/ochannel.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
