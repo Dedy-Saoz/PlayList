@@ -888,7 +888,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPH12f8/alquran-alkareem-home-tv.png" group-title="Religi", Makkah TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
 
-#EXTINF:-1 tv-logo="https://www.pngkit.com/png/detail/240-2401745_wesal-tv-logo-tv-tvs-wesal-tv.png" group-title="Religi", Wesal TV
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/wesaltv.png" group-title="Religi", Wesal TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
