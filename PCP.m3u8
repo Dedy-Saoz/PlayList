@@ -29,7 +29,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE =>1" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="Lokal",TV ONE HD
-https://iptv.mapalus.xyz/vc_free/hls-p/session/wuiKv-Aajrv-8Gig9-JeeTk/index.m3u8?src=vidio&id=783
+http://axcestv.vip:8080/live/freeview/axcestv/745.ts
 "http://rr2.dens.tv/s/s105/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -42,7 +42,7 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METRO TV =>1" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="Lokal",METRO TV HD
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METRO TV =>2" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="Lokal",METRO TV HD Backup
-https://iptv.mapalus.xyz/vc_free/hls-p/session/wuiKv-Aajrv-8Gig9-JeeTk/index.m3u8?src=vidio&id=777
+http://axcestv.vip:8080/live/freeview/axcestv/747.ts
 "http://rr.dens.tv/h/h12/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -54,7 +54,7 @@ http://akudandia.xyz/locs/akudandia-874.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV =>2" tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="Lokal",KOMPAS TV Backup
-https://iptv.mapalus.xyz/vc_free/hls-p/session/wuiKv-Aajrv-8Gig9-JeeTk/index.m3u8?src=vidio&id=874
+http://axcestv.vip:8080/live/freeview/axcestv/746.ts
 "https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -437,9 +437,7 @@ http://golive.yn.lt/stream/useesport/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/zxMy9TG/useesport1-home-tv.png" group-title="Sports",Usee Sport 1 HD Backup
-https://iptv.mapalus.xyz/uc_free/dass/session/2oT6d-5IrnE-GSCZN-Lu0yX/useesport/manifest.m3u8
-"https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport
-"http://15.235.142.241:8080/hometv/premium/9
+https://andistores.online/uss/useesport.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -449,9 +447,7 @@ http://golive.yn.lt/stream/useesport/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/jvyrSb5/useesport2-home-tv.png" group-title="Sports",Usee Sport 2 HD Backup
-https://iptv.mapalus.xyz/uc_free/dass/session/2oT6d-5IrnE-GSCZN-Lu0yX/useesports2/manifest.m3u8
-"http://15.235.142.241:8080/hometv/premium/10
-"https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport2
+https://andistores.online/uss/useesport2.m3u8
 
 #EXT-X-VERSION:3
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Sports",Indosiar Sport HD
