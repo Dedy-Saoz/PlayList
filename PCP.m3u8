@@ -452,10 +452,10 @@ https://andistores.online/uss/useesports2.m3u8
 
 #EXT-X-VERSION:3
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Sports",Indosiar Sport HD
-http://akudandia.xyz/locs/akudandia-205.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master.m3u8
 
 #EXTINF:-1 group-title="Sports", O Channel TV HD
-https://akumaymd.000webhostapp.com/master-18.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-18.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
