@@ -273,9 +273,6 @@ https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsi
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO HD Backup 1
-http://188.241.218.6:8070/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/157518
-
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO HD Backup 2
 http://axcestv.vip:8080/live/Freeindo/axcestv/501.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
