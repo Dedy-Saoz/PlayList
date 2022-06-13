@@ -97,7 +97,8 @@ https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI =>2" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Lokal",RCTI HD Backup
-https://ideplay.com/playlist/03a362f8432f9c98e7e0849d20281e66/1bedbf81db9132adead182d1a2e90f58/master.m3u8?token=bStmeEVIT3llTGhwM2thNzBlSTNhdz09OjqHXT5ZG5pXgJinDfErj4j5
+https://rctiplus.seulangatv.com/https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+"https://ideplay.com/playlist/03a362f8432f9c98e7e0849d20281e66/1bedbf81db9132adead182d1a2e90f58/master.m3u8?token=bStmeEVIT3llTGhwM2thNzBlSTNhdz09OjqHXT5ZG5pXgJinDfErj4j5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
