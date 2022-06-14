@@ -590,7 +590,7 @@ http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/92022
 http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/92012
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Sports 5 FHD Backup
-https://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd
+http://203.154.243.89:21205/nakhon
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/564JwyV/Premier-league.png" group-title="Sports",Premier League
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63688.m3u8
