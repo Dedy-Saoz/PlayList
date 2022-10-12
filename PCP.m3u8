@@ -142,7 +142,7 @@ https://stream-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV =>2" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="Lokal", Nusantara TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV =>2" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="Lokal", Mentari TV
 http://tvn.x10.mx/1/master-22.m3u8?dl=1
