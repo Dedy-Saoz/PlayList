@@ -402,19 +402,18 @@ http://golive.yn.lt/stream/useesport/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/zxMy9TG/useesport1-home-tv.png" group-title="Sports",Usee Sport 1 HD Backup
-http://139.99.61.103:8080/Smiletv/Ceria/524
-"https://wafisoft.my.id/Usee/g10.m3u8?v=useesport
+http://iptvid.my.id/hmm/useetl1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/jvyrSb5/useesport2-home-tv.png" group-title="Sports",Usee Sport 2 HD
-https://stream-delivery.mapalus.xyz/live/tv/group1/chno/312.m3u8
+http://iptvid.my.id/hmm/useetl2.m3u8
+"https://stream-delivery.mapalus.xyz/live/tv/group1/chno/312.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/jvyrSb5/useesport2-home-tv.png" group-title="Sports",Usee Sport 2 HD Backup
 http://golive.yn.lt/stream/useesport/02.m3u8
-"https://wafisoft.my.id/Usee/g10.m3u8?v=useesports2
 
 #EXTINF:-1 tvg-id="O Channel" tvg-name="O Channel" tvg-logo="https://imgs1.e-droid2.net/srv/imgs/seccs/19886572_ico.png" group-title="Sports",Mojji Sport TV HD
 http://tv.zonanime.my.id/vidio/ochannel.m3u8
