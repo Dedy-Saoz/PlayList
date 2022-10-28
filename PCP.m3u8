@@ -35,10 +35,10 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-id="NET.id" tvg-name="NET TV =>2" tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="Lokal",NET TV HD Backup
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal",SCTV HD
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal",SCTV HD 1
 http://tvn.x10.mx/1/master-12.m3u8?dl=1
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal",SCTV HD Backup
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal",SCTV HD 2
 http://nonton.wap.sh/id/009.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal",INDOSIAR HD 1
@@ -75,12 +75,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE =>1" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="Lokal",TV ONE HD
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-"http://rr2.dens.tv/s/s105/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE =>2" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="Lokal",TV ONE HD Backup
-http://tvn.x10.mx/1/master-25.m3u8?dl=1
+http://rr2.dens.tv/s/s105/02.m3u8
+"http://tvn.x10.mx/1/master-25.m3u8?dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
