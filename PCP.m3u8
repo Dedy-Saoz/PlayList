@@ -148,7 +148,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV =>2" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="Lokal", Mentari TV
-http://tvn.x10.mx/1/master-22.m3u8?dl=1
+http://tvn.x10.mx/1/master-9.m3u8?dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -441,7 +441,8 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/564JwyV/Premier-league.png" group-title="Sports",BT Sport 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+https://webudi.openhd.lol/lb/premium31/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+"http://93.152.174.144:4000/play/btsport1/index.m3u8
 "http://iptv12k.com:35461/live/8022022301/468985/5422.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -469,38 +470,38 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="https://i.ibb.co/b352L2b/bein1-home-tv.png" group-title="Sports",BeinSport 1 Inggris HD
-http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="https://i.ibb.co/jv3gyNy/bein2-home-tv.png" group-title="Sports",BeinSport 2 Indonesia HD
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="https://i.ibb.co/b352L2b/bein1-home-tv.png" group-title="Sports",BeinSport 1 Inggris HD
+https://webudi.openhd.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="https://i.ibb.co/jv3gyNy/bein2-home-tv.png" group-title="Sports",BeinSport 2 Inggris HD
-http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium90/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="https://i.ibb.co/jv3gyNy/bein2-home-tv.png" group-title="Sports",BeinSport 3 Inggris HD
-http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium118/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="Sports",BeinSport Premium 1 HD
-http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="Sports",BeinSport Premium 2 HD
-http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium99/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="Sports",BeinSport Premium 3 HD
-http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium100/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -536,31 +537,31 @@ http://tvn.x10.mx/1/master-32.m3u8?dl=1
 http://golive.yn.lt/playlist/astro/01.m3u8
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro Sports 1 FHD Backup
-https://ad2017.vhls.ru.com/ddy1/premium123/index.m3u8
+https://webudi.openhd.lol/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",Astro Sports 2 HD
 http://golive.yn.lt/playlist/astro/02.m3u8
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",Astro Sports 2 HD Backup
-https://ad2017.vhls.ru.com/ddy1/premium124/index.m3u8
+https://webudi.openhd.lol/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro Sports 3 FHD
 http://golive.yn.lt/playlist/astro/03.m3u8
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro Sports 3 FHD Backup
-https://ad2017.vhls.ru.com/ddy1/premium125/index.m3u8
+https://webudi.openhd.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Sports 4 FHD
 http://golive.yn.lt/playlist/astro/04.m3u8
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Sports 4 FHD Backup
-https://ad2017.vhls.ru.com/ddy1/premium126/index.m3u8
+https://webudi.openhd.lol/lb/premium126/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Sports 5 FHD
 http://golive.yn.lt/playlist/astro/05.m3u8
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Sports 5 FHD Backup
-https://ad2017.vhls.ru.com/ddy1/premium43/index.m3u8
+https://webudi.openhd.lol/lb/premium43/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/564JwyV/Premier-league.png" group-title="Sports",Premier League
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63688.m3u8
