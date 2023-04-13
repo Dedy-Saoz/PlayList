@@ -36,13 +36,13 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal",SCTV HD 1
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
+http://210.210.155.37/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Lokal",SCTV HD 2
 http://nonton.wap.sh/id/009.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal",INDOSIAR HD 1
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+http://210.210.155.37/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal",INDOSIAR HD 2
 http://geocities.ws/ariev7xx/indosiar.m3u8
